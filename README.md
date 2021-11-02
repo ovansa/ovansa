@@ -13,6 +13,8 @@
   <a href="mailto:aminmuhammad18@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
+  
+<hr>
 
 <ul>
   <li>🌱 I’m currently learning React with Typescript 🚀🚀🚀</li>
