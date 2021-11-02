@@ -1,13 +1,13 @@
-### Hi there, I'm Muhammed Ibrahim 👋
+<h1 align='center'>  Hi there, I'm Muhammed Ibrahim 👋 </h1>
 
-## I'm a Software Test Engineer!!!
+<p align='center'>
+  I'm a Software Test Engineer!!!
+</p>
 
 - 🌱 I’m currently learning React with Typescript 🚀🚀🚀
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Improve as frontend developer and contribute to open source
 - ⚡ Fun fact: I am a blue belt in Kyokushin Karate 🥋
-
-<hr>
 
 <h4>🔭  I’m currently working with ...</h4>
 
