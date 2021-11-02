@@ -16,15 +16,7 @@
   
 <hr>
 
-<ul>
-  <li>🌱 I’m currently learning React with Typescript 🚀🚀🚀</li>
-</ul>
-- 🌱 I’m currently learning React with Typescript 🚀🚀🚀
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Improve as frontend developer and contribute to open source
-- ⚡ Fun fact: I am a blue belt in Kyokushin Karate 🥋
-
-<h4>🔭  I’m currently working with ...</h4>
+<h4>I’m currently working with ...</h4>
 
 <h5>Software Test Engineer</h5>
 <p >
