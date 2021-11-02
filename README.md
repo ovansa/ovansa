@@ -16,7 +16,7 @@
   
 <hr>
 
-<h4>I’m currently working with ...</h4>
+<h4>I am currently working with ...</h4>
 
 <h5>Software Test Engineer</h5>
 <p >
@@ -29,3 +29,11 @@
 </p>
 
 <hr>
+
+<h4>I am currently learning ...</h4>
+
+<p >
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
+</p>
