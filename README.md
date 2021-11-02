@@ -1,7 +1,18 @@
-<h1 align='center'>  Hi there, I'm Muhammed Ibrahim 👋 </h1>
+<h1 align='center'>  Hi there, I'm Muhammed 👋 </h1>
 
 <p align='center'>
-  I'm a Software Test Engineer!!!
+  I'm a <b>Software Test Engineer<b>
+</p>
+  
+<p align='center'>
+  I live in Lagos, Nigeria and work at <b>ACCELERATOR APP</b>
+</p>
+  
+  <p align='center'>
+  <a href="https://twitter.com/stefany_vasc"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/stefanyvasconcelos/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 <ul align='center'>
