@@ -4,6 +4,9 @@
   I'm a Software Test Engineer!!!
 </p>
 
+<ul align='center'>
+  <li>🌱 I’m currently learning React with Typescript 🚀🚀🚀</li>
+</ul>
 - 🌱 I’m currently learning React with Typescript 🚀🚀🚀
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Improve as frontend developer and contribute to open source
