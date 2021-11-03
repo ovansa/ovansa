@@ -16,7 +16,7 @@
   
 <hr>
 
-<h4>I am currently working with ...</h4>
+<h4>Tools I currently work with:</h4>
 
 <h5>Software Test Engineer</h5>
 <p >
@@ -30,7 +30,7 @@
 
 <hr>
 
-<h4>I am currently learning ...</h4>
+<h4>Currently learning: </h4>
 
 <p >
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
