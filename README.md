@@ -47,19 +47,11 @@
 
 <h4>Certifications:</h4>
 
-<ul>
-  <li>AWS Certified Cloud Practitioner</li>
-  <li>Black Box Software Testing (Foundations) - Association for Software Testing</li>
-  <li>Black Box Software Testing (Bug Advocacy) - Association for Software Testing</li>
-  <li>Black Box Software Testing (Test Design) - Association for Software Testing</li>
-  <li>Black Box Software Testing (Instructor’s Course) - Association for Software Testing</li>
-  <li>Rapid Software Testing Applied - Satisfice Inc.</li>
-</ul>
-
-<hr>
-
-<h4>Objective:</h4>
-
 <p>
-  My goal is to find problems that matter and solve them effectively.
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BBST%20Foundations-%2343B02A.svg?style=for-the-badge&logo=book&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BBST%20Bug%20Advocacy-%2343B02A.svg?style=for-the-badge&logo=bug&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BBST%20Test%20Design-%2343B02A.svg?style=for-the-badge&logo=design-services&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BBST%20Instructor's%20Course-%2343B02A.svg?style=for-the-badge&logo=teacher&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Rapid%20Software%20Testing%20Applied-%23000000.svg?style=for-the-badge&logo=blackboard&logoColor=white" />
 </p>
