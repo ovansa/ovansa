@@ -1,42 +1,45 @@
-<h1 align='center'>  Hi there, I'm Muhammed 👋🏼 </h1>
+<h1 align='center'>Hi there, I'm Muhammed 👋🏼</h1>
 
 <p align='center'>
-  I'm a <b>Software Test Engineer<b>
+  I'm a <b>Senior Software Test Engineer</b> with over 6 years of experience in enhancing product stability, efficiency, and quality through strategic testing and automation. My work is driven by a passion for collaboration and continuous improvement.
 </p>
-  
+
 <p align='center'>
-  I live in Lagos, Nigeria and work at <b>ACCELERATOR APP</b>
+  I live in Lagos, Nigeria, and have worked with industry leaders such as <b>Red Acre Ltd.</b>, <b>Accelerator App</b>, and <b>Softcom Ltd.</b>
 </p>
-  
- <p align='center'>
+
+<p align='center'>
   <a href="https://www.linkedin.com/in/ovansa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aminmuhammad18@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <a href="mailto:aminmuhammad18@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ovansa"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-  
+
 <hr>
 
-<h4>Tools I currently work with:</h4>
+<h4>Tools and Technologies I Work With:</h4>
 
-<h5>Software Test Engineer</h5>
-<p >
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-node.js-6DA55F?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
+<p>
+  <img src="https://img.shields.io/badge/-Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <hr>
 
-<h4>Currently learning: </h4>
+<h4>Currently Learning:</h4>
 
-<p >
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CodeceptJS-yellow?style=for-the-badge&logo=codeceptjs&logoColor=white" />&nbsp;&nbsp;
+<p>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Playwright-45BA6A?style=for-the-badge&logo=playwright&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CodeceptJS-yellow?style=for-the-badge&logo=codeceptjs&logoColor=white" />
 </p>
