@@ -43,3 +43,23 @@
   <img src="https://img.shields.io/badge/Playwright-45BA6A?style=for-the-badge&logo=playwright&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CodeceptJS-yellow?style=for-the-badge&logo=codeceptjs&logoColor=white" />
 </p>
+<hr>
+
+<h4>Certifications:</h4>
+
+<ul>
+  <li>AWS Certified Cloud Practitioner</li>
+  <li>Black Box Software Testing (Foundations) - Association for Software Testing</li>
+  <li>Black Box Software Testing (Bug Advocacy) - Association for Software Testing</li>
+  <li>Black Box Software Testing (Test Design) - Association for Software Testing</li>
+  <li>Black Box Software Testing (Instructor’s Course) - Association for Software Testing</li>
+  <li>Rapid Software Testing Applied - Satisfice Inc.</li>
+</ul>
+
+<hr>
+
+<h4>Objective:</h4>
+
+<p>
+  My goal is to find problems that matter and solve them effectively.
+</p>
