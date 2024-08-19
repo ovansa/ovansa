@@ -39,9 +39,7 @@
 <h4>Currently Learning:</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Playwright-45BA6A?style=for-the-badge&logo=playwright&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CodeceptJS-yellow?style=for-the-badge&logo=codeceptjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 <hr>
 
