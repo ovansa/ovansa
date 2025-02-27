@@ -28,10 +28,11 @@ I'm a **Software Test Engineer** with over 6 years of experience ensuring softwa
 ---
 
 ## 🌟 **Notable Achievements**
-- **Boosted test coverage** by **100%+** on API integrations, exposing hidden issues before production 🚀
-- Designed and **integrated automated tests into CI/CD**, reducing regression testing time by **200%**
-- **Led Role-Based Access Control (RBAC) implementation**, ensuring secure user permissions
-- Migrated legacy **Ruby-based API tests** to **Postman**, making them more maintainable and accessible
+- **Awarded Best QA Engineer** @ Softcom Ltd. for excellence in testing and process improvement 🏆
+- **Boosted test coverage** by **100%+** @ Accelerator App on API integrations, exposing hidden issues before production 🚀
+- Designed and **integrated automated tests into CI/CD**, reducing regression testing time by **200%** @ **Interswitch**
+- **Led Role-Based Access Control (RBAC) implementation** @ Accelerator App, ensuring secure user permissions
+- Migrated legacy **Ruby-based API tests** to **Postman**, making them more maintainable and accessible @ Interswitch
 
 ---
 
